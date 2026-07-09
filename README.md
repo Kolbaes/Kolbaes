@@ -3,35 +3,54 @@
 
 Computer Science Graduate
 
-Aspiring IT Infrastructure & Network Support Engineering
+Passion for IT Infrastructure & Network Engineering
 
-Currently preparing for CCNA while building Enterprise network & Linux Infrastructure Home Lab Projects.
+Currently, building hands-on home lab projects while preparing for CCNA certification.
 
 # Areas of Interest
 
-- Networking
+- Network Engineering
 - Linux Administration
-- Docker
+- Data Center Operations
 - IT Infrastructure
 - Network Security
 - Data Center Technologies
 
 ---
 
-# Current Technologies
-- Linux
+# Current Focus
+- Linux Administration
 - Cisco Packer Tracer
 - Docker
-- Prometheus
-- Grafana
+- Infrastrucutre Monitoring
 - Tailscale
 - Wireshark
+- Network Troubleshooting
 
 ---
+
+## Technical Skills
+# Networking
+- TCP/IP
+- IPv4
+- Routing & Switching
+- VLANs
+- ACLs
+- DHCP
+- Router-on-a-Stick
+- Subnetting (VLSM)
+
+# Operating System
+- Linux
+- Windows 10/11
 
 # Featured Projects
 - Linux Infrastructure Home Lab
 - Enterprise Networking Lab
+
+# Tools
+- Cisco Packet Tracer
+- Wireshark
 
 ---
 
